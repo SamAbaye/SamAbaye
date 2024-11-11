@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Sam Abaye!
 
-<!--
-**SamAbaye/SamAbaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Full-Stack JavaScript Developer passionate about creating efficient, scalable, and user-friendly web applications. I specialize in HTML, CSS, React, Node.js, PostgreSQL, and Bootstrap.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 I’m building a personal portfolio to showcase my projects.
+- 🌱 I’m expanding my knowledge in front-end development and considering a career path in data analytics.
+- 🤝 I’m looking to collaborate on open-source projects related to web development.
+- 💬 Ask me about front-end development or my recent full-stack projects.
+- 📫 How to reach me: [Your Email](samsonbelayneh818@gmail.com) | [LinkedIn](www.linkedin.com/in/samson-araya-1b12b2158)
+- ⚡ Fun fact: I’m also a Barcelona fan!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Skills
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: PostgreSQL, MySQL, Oracle
+- Tools: Visual Studio, Git/GitHub
+
+### 📈 Current Projects
+- Building an advanced learning platform using React, MySQL, and JavaScript.
+- Developing a movie search website with a custom SQL backend.
+
+Thanks for stopping by! Feel free to check out my projects or reach out if you'd like to collaborate.
+
