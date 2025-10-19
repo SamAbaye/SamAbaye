@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sam Abaye!
+## Hi there 👋 I'm Samson Araya!
 
 I'm a Junior Full-Stack JavaScript Developer passionate about creating efficient, scalable, and user-friendly web applications. I specialize in HTML, CSS, React, Node.js, PostgreSQL, and Bootstrap.
 
