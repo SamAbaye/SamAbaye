@@ -8,7 +8,7 @@ I'm a Junior Full-Stack JavaScript Developer passionate about creating efficient
 - 🤝 I’m looking to collaborate on open-source projects related to web development.
 - 💬 Ask me about front-end development or my recent full-stack projects.
 - 📫 How to reach me: [Your Email](samsonbelayneh818@gmail.com) | [LinkedIn]([www.linkedin.com/in/samson-araya-24ab35337/])
-- ⚡ Fun fact: I’m also an Arsenal fan!
+- ⚡ Fun fact: I’m also an Arsenal and Messi fan!
 
 ### 🚀 My Skills
 - Frontend: HTML, CSS, JavaScript, React
